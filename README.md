@@ -7,3 +7,7 @@ I'm open to any suggestions.
 ## Donation
 If this project helps you reduce time to develop, you can give me a cup of coffee :)
 
+<div style='display:flex;'>
+  <img src='alipay.jpg' style='width:50%'>
+  <img src='tencentpay.png' style='width:50%'>
+</div>
