@@ -1,6 +1,6 @@
 # Origin Gallery
 
-I created graphs using Origin and had them all here, hoping it may help one to understand how powerful the Origin can be.
+I created graphs using Origin and had them all here, hoping it may inspire one to create beautiful graphs.
 
 I'm open to any suggestions.
 
