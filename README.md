@@ -8,3 +8,7 @@ I'm open to any suggestions.
 If this project helps you reduce time to develop, you can give me a cup of coffee :)
 
 ![donation](donation.png)
+
+## Graphs
+#### 2D Earth
+<img src="Graphs/2D Earth.png">
