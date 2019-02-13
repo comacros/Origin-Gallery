@@ -10,5 +10,5 @@ If this project helps you reduce time to develop, you can give me a cup of coffe
 ![donation](donation.png)
 
 ## Graphs
-#### 2D Earth
-<img src="Graphs/2D Earth.png">
+#### Earth
+<img src="Graphs/Earth.png">
